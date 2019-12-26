@@ -10,5 +10,5 @@ AutoHotKey Sript that configures the Ducky One 2 Mini into the following:
 * Keyboard with arrow switches:
 ![img](https://github.com/KimConcepcion/AutoHotKey/blob/master/Ducky_setup.jpg)
 
-##	Future Update
+##	To be done:
 * Preserve the right alt key features, when the button is pressed down.
