@@ -1,2 +1,3 @@
 # AutoHotKey
-AutoHotKey Scripts for my Ducky One 2 Mini
+AutoHotKey Scripts for my Ducky One 2 Mini.
+
